@@ -1,0 +1,13 @@
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.runtimeconfig.json
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.runtimeconfig.dev.json
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.genruntimeconfig.cache

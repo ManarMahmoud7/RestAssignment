@@ -1,0 +1,13 @@
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.deps.json
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.AssemblyReference.cache
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfoInputs.cache
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.AssemblyInfo.cs
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\RepositoryLayer\obj\Debug\netcoreapp3.1\RepositoryLayer.csproj.CopyComplete

@@ -1,0 +1,15 @@
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.deps.json
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.dll
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\bin\Debug\netcoreapp3.1\ServiceLayer.pdb
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.AssemblyReference.cache
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfoInputs.cache
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.AssemblyInfo.cs
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.dll
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.pdb
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+D:\Practise Activities\RESTFulAspNetCore\Assignment\ProductsAssignment\ServiceLayer\obj\Debug\netcoreapp3.1\ServiceLayer.csproj.CopyComplete
